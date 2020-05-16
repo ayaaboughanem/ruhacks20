@@ -42,8 +42,8 @@ git clone <url>
 cd ruhacks20
 ``` 
 6. (optional) Create a new branch to make your changes in. Typically, best practice
-   calls for your branch name to have your initials as well as a consice title that
-   showcases what the branch is doing. For example `mh-delete-name`. Run the following
+   calls for your branch name to have a consice title that
+   showcases what the branch is doing. For example `delete-name`. Run the following
    command to create a new branch and switch to it:
 ```
 git checkout -b <your-branch-name>

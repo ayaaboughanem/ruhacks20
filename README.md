@@ -75,7 +75,7 @@ git merge <your-branch-name>
 
 Congratulations! you used the Git CLI to open a pull request! 
 
-PS. Don't worry, I won't merge your PR to remove your name :smile:)
+PS. Don't worry, I won't merge your PR to remove your name :smile:
 
 ## Serving locally	
 

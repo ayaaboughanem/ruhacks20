@@ -73,7 +73,9 @@ git merge <your-branch-name>
 16. Look for your pull request on the `MaiHameed/ruhacks20` repository to ensure
     that it went through
 
-Congratulations! you used the Git CLI to open a pull request!
+Congratulations! you used the Git CLI to open a pull request! 
+
+PS. Don't worry, I won't merge your PR to remove your name :smile:)
 
 ## Serving locally	
 

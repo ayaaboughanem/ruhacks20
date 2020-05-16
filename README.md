@@ -48,29 +48,29 @@ cd ruhacks20
 ```
 git checkout -b <your-branch-name>
 ```
-1. Delete your name from the `contributors.json` file (you can use vim or any text
+7. Delete your name from the `contributors.json` file (you can use vim or any text
    editor or IDE)
-2. In your terminal, run the following command to stage your change for a commit:
+8. In your terminal, run the following command to stage your change for a commit:
 ```
 git add contributors.json
 ```
-8. Run the following command to commit your change with a short commit message:
+9. Run the following command to commit your change with a short commit message:
 ```
 git commit -m "your commit message"
 ```
-9. (optional) If you made your changes in a separate branch, run the following to
+10. (optional) If you made your changes in a separate branch, run the following to
     merge your changes to your `master` branch:
 ```
 git checkout master
 git merge <your-branch-name>
 ```
-10. Run the following command to push your master branch to your remote repository
+11. Run the following command to push your master branch to your remote repository
     (your `<your-username>/ruhacks20` repository)
-11. Revisit your repository on GitHub to view your latest commit
-12. Navigate to the `Pull requests` tab
-13. Click on `New pull request`
-14. Create a pull request from your master branch to mine
-15. Look for your pull request on the `MaiHameed/ruhacks20` repository to ensure
+12. Revisit your repository on GitHub to view your latest commit
+13. Navigate to the `Pull requests` tab
+14. Click on `New pull request`
+15. Create a pull request from your master branch to mine
+16. Look for your pull request on the `MaiHameed/ruhacks20` repository to ensure
     that it went through
 
 Congratulations! you used the Git CLI to open a pull request!
